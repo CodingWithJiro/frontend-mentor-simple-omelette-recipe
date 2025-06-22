@@ -1,32 +1,32 @@
-# 📁 Simple Omelette Recipe
+# 💻 Simple Omelette Recipe
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-3E54AC?style=for-the-badge&logo=frontendmentor&logoColor=white)
-![Mobile Responsive](https://img.shields.io/badge/Responsive-Mobile%20Friendly-success?style=for-the-badge&logo=responsive-design&logoColor=white)
-![Recipe Layout](https://img.shields.io/badge/Layout-Recipe-orange?style=for-the-badge)
-![Accessibility](https://img.shields.io/badge/Accessibility-AA%20Level-9E5CFF?style=for-the-badge&logo=w3c&logoColor=white)
+[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3e54a3?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/)
 ![Mobile First](https://img.shields.io/badge/Mobile%20First-Design-F57F17?style=for-the-badge)
-![Beginner Project](https://img.shields.io/badge/Level-Beginner-blueviolet?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-2196F3?style=for-the-badge&logo=responsive&logoColor=white)
+![Semantic HTML](https://img.shields.io/badge/Semantic%20HTML-ff9800?style=for-the-badge)
+[![BEM](https://img.shields.io/badge/BEM-Block%20Element%20Modifier-blue?style=for-the-badge)](https://getbem.com/)
+![Recipe Layout](https://img.shields.io/badge/Layout-Recipe-orange?style=for-the-badge)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8cd04a9e-9ecc-406d-a7b3-9f8db48f1a91/deploy-status)](https://simple-omelette-recipe-fm.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/400861c5-664d-41a3-b2d3-9437b9f5b64c/deploy-status)](https://simple-omelette-recipe-fm-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%203-blue)
 
 ## ℹ️ A Recipe Page Challenge Built with HTML and CSS
 
-<div style="display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 1em; margin-bottom: 1em">
+<div style="display: flex; align-items: center; justify-content: center; flex-flow: row wrap; gap: 1em; margin-bottom: 1em">
     <img src="./screenshot1.png" alt="Screenshot of the recipe page" width="300">
     <img src="./screenshot2.png" alt="Screenshot of ingredients section" width="600">
 </div>
 
-This project is a static recipe webpage built from a given design and style guide. It showcases a clean, responsive layout using semantic HTML and modular CSS, styled to highlight readability, structure, and accessibility.
+This project is a static recipe webpage built from a given design and style guide. It showcases a clean, responsive layout using semantic HTML and modular CSS, styled to highlight readability, structure, and accessibility. Created as part of the building challenges from [Frontend Mentor](https://www.frontendmentor.io/).
 
 ---
 
 ## 🔍 Overview
 
-This simple, mobile-friendly website presents a recipe for making a classic omelette. It was built as part of the building challenges from [Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm), which provides real-world designs and style guides for practice, making it an excellent exercise in pixel-perfect implementation, CSS responsiveness, and accessibility.
+This simple, mobile-friendly website presents a recipe for making a classic omelette which was made from real-world designs and style guides for practice, making it an excellent exercise in pixel-perfect implementation, CSS responsiveness, and accessibility.
 
 It is structured with semantic HTML elements and scalable CSS, suitable for learners practicing real layout replication without JavaScript.
 
@@ -59,20 +59,22 @@ It is structured with semantic HTML elements and scalable CSS, suitable for lear
 
 - HTML5
 - CSS3
+- Git
+- GitHub
+- Netlify
 
 ---
 
 ## 🚀 How to Run
 
 1. Clone the repository
-2. Navigate to this project folder
-3. Open `index.html` in your browser
+2. Open `index.html` in your browser
 
 ---
 
 ## 🌐 Live Demo
 
-Or you can check out the 👉 [live website here](https://simple-omelette-recipe-fm.netlify.app/)
+Or you can check out the 👉 [live website here](https://simple-omelette-recipe-fm-jiro.netlify.app/)
 
 ---
 
@@ -82,4 +84,4 @@ Created by **Elmar Chavez**
 
 🗓️ Month/Year: **June 2025**
 
-📚 Journey: **3rd** month of learning _frontend web development_.
+📚 Journey: **3<sup>rd</sup>** month of learning _frontend web development_.
