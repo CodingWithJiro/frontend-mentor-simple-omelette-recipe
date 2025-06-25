@@ -19,10 +19,9 @@
 
 ## ℹ️ A Recipe Page Challenge Built with HTML and CSS
 
-<div style="display: flex; align-items: center; justify-content: center; flex-flow: row wrap; gap: 1em; margin-bottom: 1em">
-    <img src="./screenshot1.png" alt="Screenshot of the recipe page" width="300">
-    <img src="./screenshot2.png" alt="Screenshot of ingredients section" width="600">
-</div>
+| _Mobile Preview (375x812)_                       | _Desktop Preview (1440x960)_                        |
+| ------------------------------------------------ | --------------------------------------------------- |
+| ![Mobile](./img/site-preview-mobile_375x812.png) | ![Desktop](./img/site-preview-desktop_1440x960.png) |
 
 This project is a static recipe webpage built from a given design and style guide. It showcases a clean, responsive layout using semantic HTML and modular CSS, styled to highlight readability, structure, and accessibility. Created as part of the building challenges from [Frontend Mentor](https://www.frontendmentor.io/).
 
