@@ -16,6 +16,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/400861c5-664d-41a3-b2d3-9437b9f5b64c/deploy-status)](https://simple-omelette-recipe-fm-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%203-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.frontend-mentor-simple-omelette-recipe&left_text=repo%20views)
 
 ## ℹ️ A Recipe Page Challenge Built with HTML and CSS
 
